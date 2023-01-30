@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1066090896149454851/1066521927650398269/Obra_None_0e9c27da-d355-48a9-b73d-545f49e92b8b.png)](https://github.com/AntonioObra)
+[![MasterHead](./githubBanner.png)](https://github.com/AntonioObra)
 
 
 
