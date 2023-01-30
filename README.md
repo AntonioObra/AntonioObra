@@ -1,3 +1,5 @@
+[![MasterHead](https://cdn.discordapp.com/attachments/1066511950047084564/1069280098701819975/Obra_ellie_from_the_last_of_us_in_cyberpunk_style_7cdd8756-0290-46df-9089-54b4696230fa.png)](https://github.com/AntonioObra)
+
 ### Hi there 👋
 
 [![Antonio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AntonioObra&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
