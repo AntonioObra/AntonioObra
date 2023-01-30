@@ -1,4 +1,7 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1066511950047084564/1069280098701819975/Obra_ellie_from_the_last_of_us_in_cyberpunk_style_7cdd8756-0290-46df-9089-54b4696230fa.png)](https://github.com/AntonioObra)
+[![MasterHead](https://cdn.discordapp.com/attachments/1066090896149454851/1066521927650398269/Obra_None_0e9c27da-d355-48a9-b73d-545f49e92b8b.png)](https://github.com/AntonioObra)
+
+
+
 
 ### Hi there 👋
 
@@ -10,6 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntonioObra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonioObra&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **AntonioObra/AntonioObra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
