@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [Code Repo](https://coderepo.openvoid.dev/)
 
-- 🌱 I’m currently learning **Next.js, T3 stack, Golang**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on [Open Void](https://github.com/openvoid-dev)
 
