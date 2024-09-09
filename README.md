@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Code Repo](https://coderepo.openvoid.dev/)
+- 🔭 I’m currently working on [Abyss](https://github.com/openvoid-dev/abyss)
 
 - 🌱 I’m currently learning **Laravel**
 
